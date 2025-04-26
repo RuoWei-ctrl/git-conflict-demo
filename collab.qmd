@@ -1,0 +1,12 @@
+---
+title: "Git Conflict Demo"
+format: html
+---
+
+# Introduction
+
+This is a collaborative demo.
+
+# Contributions
+
+<!-- Add your section here -->

@@ -11,6 +11,15 @@ This is a collaborative demo.
 
 <!-- Add your section here -->
 
+
 # B section
 
 By student-b
+
+# A section
+
+By student-a
+
+# Instructor's Section
+
+This section was added after Student B began work.

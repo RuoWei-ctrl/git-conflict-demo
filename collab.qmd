@@ -14,3 +14,7 @@ This is a collaborative demo.
 # A section
 
 By student-a
+
+# Instructor's Section
+
+This section was added after Student B began work.

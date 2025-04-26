@@ -18,5 +18,3 @@ By student-a
 # Instructor's Section
 
 This section was added after Student B began work.
-
-mistake3
